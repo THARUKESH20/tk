@@ -12,7 +12,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/breast-cancer-prediction.git
+git clone https://github.com/THARUKESH20/tk.git
 Install Dependencies:
 
 bash
